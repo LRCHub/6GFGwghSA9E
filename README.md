@@ -1,0 +1,19 @@
+# Home Made Kazoku – Theme of seven emotions
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Love
+Courage
+Challenge
+Heart
+Thank You
+Wish
+And Yes You Are
+Welcome!!
+7, 6, 5, 4, 3, 2, 1 Pieces
+沸き上がる1, 2, 3, 4, 5, 6, 7 Passions
+What We Got Is 7, 6, 5, 4, 3, 2, 1 Reasons
+解き放つ1, 2, 3, 4, 5, 6, 7 Emotions
+seven emotions
+```
